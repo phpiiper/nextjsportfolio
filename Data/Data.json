@@ -1,0 +1,221 @@
+{
+  "cards": [
+    {"name": "ABOUT", "icon": "person", "text": "I am a developer specialized in <br>UI & UX who uses data as the basis to conjure up solutions."},
+    {"name": "EDUCATION", "icon": "school", "text": [
+      {"text": "New Jersey Institute of Technology", "style": {"font": "calc(var(--fsH1) * .3) var(--fText)", "color": "var(--cMainDark)"}},
+      {"text": "2022 - Present", "style": "font: calc(var(--fsH1) * .2) var(--fText); color: var(--cMainDark)"},
+      {"text": "Web & Information Systems", "style": {"font": "calc(var(--fsH1) * .2) var(--fText)", "color": "var(--cMainDark)", "fontStyle": "italic", "paddingTop": "2rem"}}
+    ]},
+    {"name": "SKILLS", "icon": "psychology", "text": [
+      {"text": "Javascript", "symbol": "fa-js", "symbolStyle": "color: rgba(var(--cMainDark)); margin-right: 1rem;"},
+      {"text": "CSS", "symbol": "fa-css3-alt", "symbolStyle": "color: rgba(var(--cMainDark)); margin-right: 1rem;"},
+      {"text": "Python", "symbol": "fa-python", "symbolStyle": "color: rgba(var(--cMainDark)); margin-right: 1rem;"},
+      {"text": "Java", "symbol": "fa-java", "symbolStyle": "color: rgba(var(--cMainDark)); margin-right: 1rem;"}
+    ]}
+  ],
+  "projects": [
+    {
+      "icon": "menu_book",
+      "title": "[WIP] Character Creator",
+      "text": "A project to make creating character sheets more personable for every story.",
+      "im": "project1.png",
+      "links": [
+        {
+          "name": "View FIGMA",
+          "link": "https://www.figma.com/file/d4TwlKNwFrx3j1bcds9Tv8/CharacterCreator?type=design&node-id=10%3A211&mode=design&t=sbz3FLuhn51VM2PH-1"
+        },
+        {
+          "name": "View Current State",
+          "link": "https://phpiiper.github.io/StoryMaker/"
+        },
+        {
+          "name": "View Last Change",
+          "link": "https://github.com/phpiiper/StoryMaker/commit/862997480a190c8bf3805bbd14fdd3f7e82099d3"
+        }
+      ]
+    },
+    {
+      "icon": "person",
+      "title": "Portfolio Website",
+      "text": "A portfolio website to show my capabilities in designing and implementing a website.",
+      "im": "portfolio.png",
+      "links": [
+        {
+          "name": "View FIGMA",
+          "link": "https://www.figma.com/file/d4TwlKNwFrx3j1bcds9Tv8/CharacterCreator?type=design&node-id=10%3A211&mode=design&t=sbz3FLuhn51VM2PH-1"
+        },
+        {
+          "name": "View Site",
+          "link": "index.html"
+        },
+        {
+          "name": "View Issue",
+          "link": "https://github.com/NJIT-WIS/midterm-portfolio-phpiiper/issues/6"
+        }
+      ]
+    },
+    {
+      "icon": "restaurant_menu",
+      "title": "Recipe List",
+      "text": "A website dedicated to viewing cooking recipes in an easier to read format.",
+      "im": "recipelist.png",
+      "links": [
+        {
+          "name": "View Project",
+          "link": "https://plpiiper.github.io/recipeList/"
+        }
+      ]
+    },
+    {
+      "icon": "ink_highlighter",
+      "title": "Dominion Card Picker",
+      "text": "A project to making selecting cards for the game \"Dominion\" more efficient.",
+      "im": "dominion.png",
+      "links": [
+        {
+          "name": "View Project",
+          "link": "https://phpiiper.github.io/newDom/"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    [
+      {
+        "type": "a",
+        "label": "Go to this page's Home section",
+        "href": "#home",
+        "text": "Home"
+      },
+      {
+        "type": "a",
+        "label": "Go to this page's About section",
+        "href": "#about",
+        "text": "About"
+      },
+      {
+        "type": "a",
+        "label": "Go to this page's Projects section",
+        "href": "#projects",
+        "text": "Projects"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "div",
+        "id": "view-resume",
+        "children": [
+          {
+            "type": "button",
+            "id": "view-resume-text-button",
+            "children": [
+              {
+                "type": "a",
+                "href": "/Resume",
+                "label": "View resume",
+                "text": "View Resume"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "div",
+        "className": "icons-row",
+        "children": [
+          {
+            "type": "a",
+            "label": "Visit Piper's GitHub page",
+            "data": {
+              "testid": "github-icon"
+            },
+            "href": "https://github.com/phpiiper",
+            "target": "_blank",
+            "children": [
+              {
+                "type": "i",
+                "className": "icon fa-brands fa-github"
+              }
+            ]
+          },
+          {
+            "type": "a",
+            "label": "Visit Piper's LinkedIn page",
+            "data": {
+              "testid": "linkedin-icon"
+            },
+            "href": "https://www.linkedin.com/in/piper-phair-426494252/",
+            "target": "_blank",
+            "children": [
+              {
+                "type": "i",
+                "className": "icon fa-brands fa-linkedin-in"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "edu": [
+    {
+      "name": "New Jersey Institute of Technology",
+      "year": "2022 - Present",
+      "major": "Web & Information Systems",
+      "status": "Sophomore",
+      "list": [
+        {
+          "text": "GPA: 3.6"
+        }
+      ]
+    }
+  ],
+  "exp": [
+    {
+      "name": "UX/UI Group Design Project",
+      "year": "Spring 2023",
+      "skills": [
+        "Figma",
+        "Project Management",
+        "Group Project Experience",
+        "User Experience",
+        "User Interface"
+      ],
+      "text": "I led the design for a user-orientated dining hall meal planning app for a group project."
+    },
+    {
+      "name": "Recipe List Personal Project",
+      "year": "2022 - 2023",
+      "skills": [
+        "Website Development",
+        "Javascript",
+        "Data Management",
+        "UI/UX"
+      ],
+      "text": "I created a user interface for viewing lists of cooking recipes in a more readable format."
+    }
+  ],
+  "skl": [
+    {
+      "icon": "fa-brands fa-js",
+      "text": "Javascript"
+    },
+    {
+      "icon": "fa-brands fa-react",
+      "text": "React/NextJS"
+    },
+    {
+      "icon": "fa-brands fa-css3-alt",
+      "text": "CSS"
+    },
+    {
+      "icon": "fa-brands fa-java",
+      "text": "Java"
+    },
+    {
+      "icon": "fa-brands fa-python",
+      "text": "Python"
+    }
+  ]
+}

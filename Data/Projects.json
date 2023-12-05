@@ -1,0 +1,66 @@
+[
+  {
+    "icon": "menu_book",
+    "title": "[WIP] Character Creator",
+    "text": "A project to make creating character sheets more personable for every story.",
+    "im": "project1.png",
+    "links": [
+      {
+        "name": "View FIGMA",
+        "link": "https://www.figma.com/file/d4TwlKNwFrx3j1bcds9Tv8/CharacterCreator?type=design&node-id=10%3A211&mode=design&t=sbz3FLuhn51VM2PH-1"
+      },
+      {
+        "name": "View Current State",
+        "link": "https://phpiiper.github.io/StoryMaker/"
+      },
+      {
+        "name": "View Last Change",
+        "link": "https://github.com/phpiiper/StoryMaker/commit/862997480a190c8bf3805bbd14fdd3f7e82099d3"
+      }
+    ]
+  },
+  {
+    "icon": "person",
+    "title": "Portfolio Website",
+    "text": "A portfolio website to show my capabilities in designing and implementing a website.",
+    "im": "portfolio.png",
+    "links": [
+      {
+        "name": "View FIGMA",
+        "link": "https://www.figma.com/file/d4TwlKNwFrx3j1bcds9Tv8/CharacterCreator?type=design&node-id=10%3A211&mode=design&t=sbz3FLuhn51VM2PH-1"
+      },
+      {
+        "name": "View Site",
+        "link": "index.html"
+      },
+      {
+        "name": "View Issue",
+        "link": "https://github.com/NJIT-WIS/midterm-portfolio-phpiiper/issues/6"
+      }
+    ]
+  },
+  {
+    "icon": "restaurant_menu",
+    "title": "Recipe List",
+    "text": "A website dedicated to viewing cooking recipes in an easier to read format.",
+    "im": "recipelist.png",
+    "links": [
+      {
+        "name": "View Project",
+        "link": "https://plpiiper.github.io/recipeList/"
+      }
+    ]
+  },
+  {
+    "icon": "ink_highlighter",
+    "title": "Dominion Card Picker",
+    "text": "A project to making selecting cards for the game \"Dominion\" more efficient.",
+    "im": "dominion.png",
+    "links": [
+      {
+        "name": "View Project",
+        "link": "https://phpiiper.github.io/newDom/"
+      }
+    ]
+  }
+]
