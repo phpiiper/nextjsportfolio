@@ -17,19 +17,19 @@
     {
       "icon": "menu_book",
       "title": "[WIP] Character Creator",
-      "text": "A project to make creating character sheets more personable for every story.",
+      "text": "A HTML/JS web project to make creating character sheets more personable for every story. Currently being re-worked.",
       "im": "project1.png",
       "links": [
         {
           "name": "View FIGMA",
-          "link": "https://www.figma.com/file/d4TwlKNwFrx3j1bcds9Tv8/CharacterCreator?type=design&node-id=10%3A211&mode=design&t=sbz3FLuhn51VM2PH-1"
+          "link": "https://www.figma.com/file/d4TwlKNwFrx3j1bcds9Tv8/CharacterCreator?type=design&node-id=369%3A64&mode=design&t=7JtHvJdXccjbKwla-1"
         },
         {
-          "name": "View Current State",
+          "name": "View Past State",
           "link": "https://phpiiper.github.io/StoryMaker/"
         },
         {
-          "name": "View Last Change",
+          "name": "View Past Change",
           "link": "https://github.com/phpiiper/StoryMaker/commit/862997480a190c8bf3805bbd14fdd3f7e82099d3"
         }
       ]
@@ -193,7 +193,7 @@
         "Data Management",
         "UI/UX"
       ],
-      "text": "I created a user interface for viewing lists of cooking recipes in a more readable format."
+      "text": "I created a JS/HTML/CSS user interface for viewing lists of cooking recipes in a more readable format."
     }
   ],
   "skl": [
