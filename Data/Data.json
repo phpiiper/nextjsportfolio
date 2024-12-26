@@ -15,8 +15,28 @@
   ],
   "projects": [
     {
+      "icon": "book",
+      "title": "Stories Viewer",
+      "text": "Testing layout and NextJS features for a conceptual reading website.",
+      "im": "readingproject.png",
+      "links": [
+      ]
+    },
+    {
+      "icon": "page",
+      "title": "(School) Website Concepts",
+      "text": "Test markups for designs for some conceptual projects for school.",
+      "im": "designproject.png",
+      "links": [
+        {
+          "name": "VIEW FIGMA",
+          "link": "https://www.figma.com/design/CnSne68s1zriEWOtoLJWni/IT-310-Project?node-id=0-1&t=tEbrGo73yxK4NCwn-1"
+        }
+      ]
+    },
+    {
       "icon": "menu_book",
-      "title": "[WIP] Character Creator",
+      "title": "Character Creator",
       "text": "A project to make creating character sheets more personable for every story.",
       "im": "project1.png",
       "links": [
@@ -57,12 +77,12 @@
     {
       "icon": "restaurant_menu",
       "title": "Recipe List",
-      "text": "A website dedicated to viewing cooking recipes in an easier to read format.",
+      "text": "A website dedicated to viewing cooking recipes in a simplistic format.",
       "im": "recipelist.png",
       "links": [
         {
           "name": "View Project",
-          "link": "https://plpiiper.github.io/recipeList/"
+          "link": "https://plpiiper.github.io/recipelistv3_5"
         }
       ]
     },
@@ -163,10 +183,10 @@
       "name": "New Jersey Institute of Technology",
       "year": "2022 - Present",
       "major": "Web & Information Systems",
-      "status": "Sophomore",
+      "status": "Junior",
       "list": [
         {
-          "text": "GPA: 3.6"
+          "text": "GPA: 3.4"
         }
       ]
     }
@@ -194,6 +214,17 @@
         "UI/UX"
       ],
       "text": "I created a user interface for viewing lists of cooking recipes in a more readable format."
+    },
+    {
+      "name": "E-Commerce Website",
+      "year": "2024 - 2024",
+      "skills": [
+        "E-commerce",
+        "Website Development",
+        "UI/UX",
+        "Project Management"
+      ],
+      "text": "Lead a group project focused on creating an e-commerce website, focusing on the purpose and the overall design of the business."
     }
   ],
   "skl": [
@@ -216,6 +247,10 @@
     {
       "icon": "fa-brands fa-python",
       "text": "Python"
+    },
+    {
+      "icon": "fa-brands fa-sql",
+      "text": "SQL"
     }
   ]
 }
