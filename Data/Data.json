@@ -16,6 +16,22 @@
   ],
   "projects": [
     {
+      "icon": "computer",
+      "title": "Recipe DB",
+      "text": "The newest iteration in a long-term project using MongoDB and NextJS (with NextAuth) to allow for user personalization and uploading to the database. (Designed for the iPad, since that is where it's often used by)",
+      "im": "recipesv4.png",
+      "links": [
+        {
+          "name": "VIEW SITE",
+          "link": "https://recipemongotest.vercel.app/"
+        },
+        {
+          "name": "VIEW FIGMA",
+          "link": "https://www.figma.com/design/CnSne68s1zriEWOtoLJWni/Project-Designs?node-id=101-2&t=gUrHTQY9hnhxXIVd-1"
+        }
+      ]
+    },
+    {
       "icon": "book",
       "title": "Stories Viewer",
       "text": "Testing layout and NextJS features for a conceptual reading website.",
@@ -72,18 +88,6 @@
         {
           "name": "View Issue",
           "link": "https://github.com/NJIT-WIS/midterm-portfolio-phpiiper/issues/6"
-        }
-      ]
-    },
-    {
-      "icon": "restaurant_menu",
-      "title": "Recipe List",
-      "text": "A website dedicated to viewing cooking recipes in a simplistic format.",
-      "im": "recipelist.png",
-      "links": [
-        {
-          "name": "View Project",
-          "link": "https://plpiiper.github.io/recipelistv3_5"
         }
       ]
     },
